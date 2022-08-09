@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "AppCleanArchitecture.Infra.Data/1.0.0": {
+        "dependencies": {
+          "AppCleanArchitecture.Domain": "1.0.0"
+        },
+        "runtime": {
+          "AppCleanArchitecture.Infra.Data.dll": {}
+        }
+      },
+      "AppCleanArchitecture.Domain/1.0.0": {
+        "runtime": {
+          "AppCleanArchitecture.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AppCleanArchitecture.Infra.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AppCleanArchitecture.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
