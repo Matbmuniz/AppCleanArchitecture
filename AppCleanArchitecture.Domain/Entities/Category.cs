@@ -34,7 +34,7 @@ namespace AppCleanArchitecture.Domain.Entities
             DomainExceptionValidation.When(name.Length < 3,
                 "Invalid name, too short, minimium 3 characters");
 
-            Name = name; //teste
+            Name = name;
         }
     }
 }
