@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace AppCleanArchitecture.Domain.Validation
 {
-    class DomainExceptionValidation : Exception
+    public class DomainExceptionValidation : Exception
     {
         public DomainExceptionValidation(string error) : base(error) {  }
 
