@@ -51,9 +51,9 @@ namespace AppCleanArchitecture.Domain.Entities
 
             DomainExceptionValidation.When(price < 0, "Invalid price value");
 
-            DomainExceptionValidation.When(stock < 0, "Invalid price value");
+            DomainExceptionValidation.When(stock < 0, "Invalid stock value");
 
-            DomainExceptionValidation.When(image.Length > 250,
+            DomainExceptionValidation.When(image?.Length > 250,
                 "Invalid image name, too long, maximum 250 characteres");
             #endregion
 
