@@ -17,3 +17,6 @@ C:\Codes\MinhaAppCleanArchitecture\AppCleanArchitecture.Infra.IoC\obj\Debug\net5
 C:\Codes\MinhaAppCleanArchitecture\AppCleanArchitecture.Infra.IoC\obj\Debug\net5.0\AppCleanArchitecture.Infra.IoC.dll
 C:\Codes\MinhaAppCleanArchitecture\AppCleanArchitecture.Infra.IoC\obj\Debug\net5.0\ref\AppCleanArchitecture.Infra.IoC.dll
 C:\Codes\MinhaAppCleanArchitecture\AppCleanArchitecture.Infra.IoC\obj\Debug\net5.0\AppCleanArchitecture.Infra.IoC.pdb
+C:\Codes\MinhaAppCleanArchitecture\AppCleanArchitecture.Infra.IoC\bin\Debug\net5.0\AppCleanArchitecture.Infra.IoC.runtimeconfig.json
+C:\Codes\MinhaAppCleanArchitecture\AppCleanArchitecture.Infra.IoC\bin\Debug\net5.0\AppCleanArchitecture.Infra.IoC.runtimeconfig.dev.json
+C:\Codes\MinhaAppCleanArchitecture\AppCleanArchitecture.Infra.IoC\obj\Debug\net5.0\AppCleanArchitecture.Infra.IoC.genruntimeconfig.cache

@@ -13,3 +13,6 @@ C:\Codes\MinhaAppCleanArchitecture\AppCleanArchitecture.Infra.Data\obj\Debug\net
 C:\Codes\MinhaAppCleanArchitecture\AppCleanArchitecture.Infra.Data\obj\Debug\net5.0\AppCleanArchitecture.Infra.Data.dll
 C:\Codes\MinhaAppCleanArchitecture\AppCleanArchitecture.Infra.Data\obj\Debug\net5.0\ref\AppCleanArchitecture.Infra.Data.dll
 C:\Codes\MinhaAppCleanArchitecture\AppCleanArchitecture.Infra.Data\obj\Debug\net5.0\AppCleanArchitecture.Infra.Data.pdb
+C:\Codes\MinhaAppCleanArchitecture\AppCleanArchitecture.Infra.Data\bin\Debug\net5.0\AppCleanArchitecture.Infra.Data.runtimeconfig.json
+C:\Codes\MinhaAppCleanArchitecture\AppCleanArchitecture.Infra.Data\bin\Debug\net5.0\AppCleanArchitecture.Infra.Data.runtimeconfig.dev.json
+C:\Codes\MinhaAppCleanArchitecture\AppCleanArchitecture.Infra.Data\obj\Debug\net5.0\AppCleanArchitecture.Infra.Data.genruntimeconfig.cache
