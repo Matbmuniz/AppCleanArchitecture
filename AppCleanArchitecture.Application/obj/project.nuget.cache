@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "+NWOMO6j1pmYkNC9Bv7a0C3q4KVOhwZ/AnYzY+Qu7jRZhdMKUlbOGKmifDkzLqR9/FUoO9bhp5qMEErJENKgeQ==",
+  "dgSpecHash": "q4a3monTScoxwhl+w4GwBbhg/aCvfEyTKVq6CdfcsJfmbN2wP8wKNX7HoG0WnTxcOxFrYNMfESv+JAwx6BQo9Q==",
   "success": true,
   "projectFilePath": "C:\\Codes\\MinhaAppCleanArchitecture\\AppCleanArchitecture.Application\\AppCleanArchitecture.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Barreto\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\Barreto\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
     "C:\\Users\\Barreto\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\Barreto\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
   ],

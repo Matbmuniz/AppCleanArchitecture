@@ -1,6 +1,10 @@
-﻿using AppCleanArchitecture.Domain.Interface;
+﻿using AppCleanArchitecture.Application.Interfaces;
+using AppCleanArchitecture.Application.Mappings;
+using AppCleanArchitecture.Application.Services;
+using AppCleanArchitecture.Domain.Interface;
 using AppCleanArchitecture.Infra.Data.Context;
 using AppCleanArchitecture.Infra.Data.Repositories;
+using AutoMapper;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
@@ -24,6 +28,10 @@ namespace AppCleanArchitecture.Infra.IoC
             services.AddScoped<ICategoryRepository, CategoryRepository>();
             services.AddScoped<IProductRepository, ProductRepository>();
 
+            services.AddScoped<IProductService, ProductService>();  
+            services.AddScoped<ICategoryService, CategoryService>();
+
+            services.AddAutoMapper(typeof(DomainToDTOMappingProfile));
             return services;
         }
     }

@@ -1,11 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "bMNf+pTkBQCUvy3E3COwiA6T9MtrRasi8/WcQ/NvVglfmFj7dRVBxWW/hMvpioy26gtdlfyw8XZQntTte1FKiA==",
+  "dgSpecHash": "o6o6ecJmw/67uBKOv96ZYhu7ArZeZcIrgca82EVKtrTTqMK3QikrMQ5Ck42QPrU7g42uEBqObHXqTaIZV+n4lA==",
   "success": true,
   "projectFilePath": "C:\\Codes\\MinhaAppCleanArchitecture\\AppCleanArchitecture.Infra.IoC\\AppCleanArchitecture.Infra.IoC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Barreto\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\Barreto\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\5.0.1\\automapper.extensions.microsoft.dependencyinjection.5.0.1.nupkg.sha512",
     "C:\\Users\\Barreto\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
+    "C:\\Users\\Barreto\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
     "C:\\Users\\Barreto\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\Barreto\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",
     "C:\\Users\\Barreto\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\2.0.1\\microsoft.data.sqlclient.sni.runtime.2.0.1.nupkg.sha512",
