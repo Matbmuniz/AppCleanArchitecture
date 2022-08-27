@@ -2,7 +2,6 @@ C:\Codes\MinhaAppCleanArchitecture\AppCleanArchitecture.Domain\bin\Debug\net5.0\
 C:\Codes\MinhaAppCleanArchitecture\AppCleanArchitecture.Domain\bin\Debug\net5.0\AppCleanArchitecture.Domain.dll
 C:\Codes\MinhaAppCleanArchitecture\AppCleanArchitecture.Domain\bin\Debug\net5.0\ref\AppCleanArchitecture.Domain.dll
 C:\Codes\MinhaAppCleanArchitecture\AppCleanArchitecture.Domain\bin\Debug\net5.0\AppCleanArchitecture.Domain.pdb
-C:\Codes\MinhaAppCleanArchitecture\AppCleanArchitecture.Domain\obj\Debug\net5.0\AppCleanArchitecture.Domain.csproj.AssemblyReference.cache
 C:\Codes\MinhaAppCleanArchitecture\AppCleanArchitecture.Domain\obj\Debug\net5.0\AppCleanArchitecture.Domain.GeneratedMSBuildEditorConfig.editorconfig
 C:\Codes\MinhaAppCleanArchitecture\AppCleanArchitecture.Domain\obj\Debug\net5.0\AppCleanArchitecture.Domain.AssemblyInfoInputs.cache
 C:\Codes\MinhaAppCleanArchitecture\AppCleanArchitecture.Domain\obj\Debug\net5.0\AppCleanArchitecture.Domain.AssemblyInfo.cs

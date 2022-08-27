@@ -1,11 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "dvcoMv9P0KGhjjObLfUI+g8gEXdt7gfnyef/Cbw3kfELhe0dS8SOJPiZ6H6IECgLUJGZTbf/ArhG+fiDnbqjTA==",
+  "dgSpecHash": "5Gz5aWhvJm7KVxhwMiW2T43ObEoa2CSPWb9lOpsL2Xcd23u26kDdZc3PxFuk4DR7ku+3hZpiEkIzmQvwYzphng==",
   "success": true,
   "projectFilePath": "C:\\Codes\\MinhaAppCleanArchitecture\\AppCleanArchitecture.WebUI\\AppCleanArchitecture.WebUI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Barreto\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\Barreto\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\5.0.1\\automapper.extensions.microsoft.dependencyinjection.5.0.1.nupkg.sha512",
     "C:\\Users\\Barreto\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
+    "C:\\Users\\Barreto\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
     "C:\\Users\\Barreto\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.extensions\\5.0.17\\microsoft.aspnetcore.mvc.razor.extensions.5.0.17.nupkg.sha512",
     "C:\\Users\\Barreto\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.runtimecompilation\\5.0.17\\microsoft.aspnetcore.mvc.razor.runtimecompilation.5.0.17.nupkg.sha512",
     "C:\\Users\\Barreto\\.nuget\\packages\\microsoft.aspnetcore.razor.language\\5.0.17\\microsoft.aspnetcore.razor.language.5.0.17.nupkg.sha512",
