@@ -5,6 +5,7 @@ using AppCleanArchitecture.Domain.Interface;
 using AppCleanArchitecture.Infra.Data.Context;
 using AppCleanArchitecture.Infra.Data.Repositories;
 using AutoMapper;
+using MediatR;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
@@ -32,6 +33,10 @@ namespace AppCleanArchitecture.Infra.IoC
             services.AddScoped<ICategoryService, CategoryService>();
 
             services.AddAutoMapper(typeof(DomainToDTOMappingProfile));
+
+            var myhandlers = AppDomain.CurrentDomain.Load("AppCleanArchitecture.Application");
+            services.AddMediatR(myhandlers);
+
             return services;
         }
     }

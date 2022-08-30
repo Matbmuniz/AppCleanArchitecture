@@ -15,6 +15,7 @@ namespace AppCleanArchitecture.WebUI.Controllers
             _productService = productService;
         }
 
+        [Route("Produtos-Disponiveis")]
         [HttpGet]
         public async Task<IActionResult> Index()
         {

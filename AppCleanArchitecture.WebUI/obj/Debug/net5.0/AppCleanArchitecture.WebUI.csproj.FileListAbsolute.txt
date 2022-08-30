@@ -395,3 +395,7 @@ C:\Codes\MinhaAppCleanArchitecture\AppCleanArchitecture.WebUI\obj\Debug\net5.0\r
 C:\Codes\MinhaAppCleanArchitecture\AppCleanArchitecture.WebUI\obj\Debug\net5.0\AppCleanArchitecture.WebUI.pdb
 C:\Codes\MinhaAppCleanArchitecture\AppCleanArchitecture.WebUI\obj\Debug\net5.0\AppCleanArchitecture.WebUI.genruntimeconfig.cache
 C:\Codes\MinhaAppCleanArchitecture\AppCleanArchitecture.WebUI\obj\Debug\net5.0\Razor\Views\Product\Index.cshtml.g.cs
+C:\Codes\MinhaAppCleanArchitecture\AppCleanArchitecture.WebUI\bin\Debug\net5.0\MediatR.dll
+C:\Codes\MinhaAppCleanArchitecture\AppCleanArchitecture.WebUI\bin\Debug\net5.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Codes\MinhaAppCleanArchitecture\AppCleanArchitecture.WebUI\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Codes\MinhaAppCleanArchitecture\AppCleanArchitecture.WebUI\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs

@@ -15,6 +15,7 @@ namespace AppCleanArchitecture.WebUI.Controllers
             _categoryService = categoryService;
         }
 
+        [Route("Categorias-Disponiveis")]
         [HttpGet]
         public async Task<IActionResult> Index()
         {
