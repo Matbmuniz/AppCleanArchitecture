@@ -405,3 +405,5 @@ C:\Codes\MinhaAppCleanArchitecture\AppCleanArchitecture.WebUI\obj\Debug\net5.0\R
 C:\Codes\MinhaAppCleanArchitecture\AppCleanArchitecture.WebUI\obj\Debug\net5.0\Razor\Views\Categories\Details.cshtml.g.cs
 C:\Codes\MinhaAppCleanArchitecture\AppCleanArchitecture.WebUI\obj\Debug\net5.0\Razor\Views\Product\Create.cshtml.g.cs
 C:\Codes\MinhaAppCleanArchitecture\AppCleanArchitecture.WebUI\obj\Debug\net5.0\Razor\Views\Product\Edit.cshtml.g.cs
+C:\Codes\MinhaAppCleanArchitecture\AppCleanArchitecture.WebUI\obj\Debug\net5.0\Razor\Views\Product\Delete.cshtml.g.cs
+C:\Codes\MinhaAppCleanArchitecture\AppCleanArchitecture.WebUI\obj\Debug\net5.0\Razor\Views\Product\Details.cshtml.g.cs

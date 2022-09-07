@@ -1,9 +1,11 @@
 ﻿using AppCleanArchitecture.Application.DTOs;
 using AppCleanArchitecture.Application.Interfaces;
+using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Threading.Tasks;
 
@@ -13,11 +15,14 @@ namespace AppCleanArchitecture.WebUI.Controllers
     {
         private readonly IProductService _productService;
         private readonly ICategoryService _catergoryService;
+        private readonly IWebHostEnvironment _webHostEnvironment;
         public ProductController(IProductService productService,
-                                ICategoryService categoryService)
+                                ICategoryService categoryService,
+                                IWebHostEnvironment webHostEnvironment)
         {
             _productService = productService;
             _catergoryService = categoryService;
+            _webHostEnvironment = webHostEnvironment;
         }
 
         [Route("Produtos-Disponiveis")]
@@ -72,6 +77,41 @@ namespace AppCleanArchitecture.WebUI.Controllers
                     await _productService.Update(productDTO);
                     return RedirectToAction(nameof(Index));
             }
+
+            return View(productDTO);
+        }
+
+        [HttpGet()]
+        public async Task<IActionResult> Delete(int? id)
+        {
+            if (id == null) return NotFound();
+
+            var productDTO = await _productService.GetById(id);
+
+            if (productDTO == null) return NotFound();
+
+            return View(productDTO);
+        }
+
+        [HttpPost(), ActionName("Delete")]
+        public async Task<IActionResult> DeleteConfirmed(int id)
+        {
+            await _productService.Remove(id);
+            return RedirectToAction(nameof(Index));
+        }
+
+        [HttpGet()]
+        public async Task<IActionResult> Details(int? id)
+        {
+            if (id == null) return NotFound();
+            var productDTO = await _productService.GetById(id);
+
+            if (productDTO == null) return NotFound();
+
+            var wwwroot = _webHostEnvironment.WebRootPath;
+            var image = Path.Combine(wwwroot, "images\\" + productDTO.Image);
+            var exists = System.IO.File.Exists(image);
+            ViewBag.ImageExist = exists;
 
             return View(productDTO);
         }
