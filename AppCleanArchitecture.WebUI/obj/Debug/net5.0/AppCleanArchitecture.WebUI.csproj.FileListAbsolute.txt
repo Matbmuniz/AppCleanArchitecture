@@ -23,8 +23,6 @@ C:\Codes\MinhaAppCleanArchitecture\AppCleanArchitecture.WebUI\bin\Debug\net5.0\r
 C:\Codes\MinhaAppCleanArchitecture\AppCleanArchitecture.WebUI\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
 C:\Codes\MinhaAppCleanArchitecture\AppCleanArchitecture.WebUI\bin\Debug\net5.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
 C:\Codes\MinhaAppCleanArchitecture\AppCleanArchitecture.WebUI\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Cors.dll
-C:\Codes\MinhaAppCleanArchitecture\AppCleanArchitecture.WebUI\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
-C:\Codes\MinhaAppCleanArchitecture\AppCleanArchitecture.WebUI\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
 C:\Codes\MinhaAppCleanArchitecture\AppCleanArchitecture.WebUI\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
 C:\Codes\MinhaAppCleanArchitecture\AppCleanArchitecture.WebUI\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.dll
 C:\Codes\MinhaAppCleanArchitecture\AppCleanArchitecture.WebUI\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
@@ -109,8 +107,6 @@ C:\Codes\MinhaAppCleanArchitecture\AppCleanArchitecture.WebUI\bin\Debug\net5.0\r
 C:\Codes\MinhaAppCleanArchitecture\AppCleanArchitecture.WebUI\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
 C:\Codes\MinhaAppCleanArchitecture\AppCleanArchitecture.WebUI\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.dll
 C:\Codes\MinhaAppCleanArchitecture\AppCleanArchitecture.WebUI\bin\Debug\net5.0\refs\Microsoft.Extensions.Http.dll
-C:\Codes\MinhaAppCleanArchitecture\AppCleanArchitecture.WebUI\bin\Debug\net5.0\refs\Microsoft.Extensions.Identity.Core.dll
-C:\Codes\MinhaAppCleanArchitecture\AppCleanArchitecture.WebUI\bin\Debug\net5.0\refs\Microsoft.Extensions.Identity.Stores.dll
 C:\Codes\MinhaAppCleanArchitecture\AppCleanArchitecture.WebUI\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
 C:\Codes\MinhaAppCleanArchitecture\AppCleanArchitecture.WebUI\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.dll
 C:\Codes\MinhaAppCleanArchitecture\AppCleanArchitecture.WebUI\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
@@ -381,7 +377,6 @@ C:\Codes\MinhaAppCleanArchitecture\AppCleanArchitecture.WebUI\obj\Debug\net5.0\A
 C:\Codes\MinhaAppCleanArchitecture\AppCleanArchitecture.WebUI\obj\Debug\net5.0\AppCleanArchitecture.WebUI.TagHelpers.output.cache
 C:\Codes\MinhaAppCleanArchitecture\AppCleanArchitecture.WebUI\obj\Debug\net5.0\AppCleanArchitecture.WebUI.RazorCoreGenerate.cache
 C:\Codes\MinhaAppCleanArchitecture\AppCleanArchitecture.WebUI\obj\Debug\net5.0\Razor\Views\Categories\Index.cshtml.g.cs
-C:\Codes\MinhaAppCleanArchitecture\AppCleanArchitecture.WebUI\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
 C:\Codes\MinhaAppCleanArchitecture\AppCleanArchitecture.WebUI\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
 C:\Codes\MinhaAppCleanArchitecture\AppCleanArchitecture.WebUI\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
 C:\Codes\MinhaAppCleanArchitecture\AppCleanArchitecture.WebUI\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
@@ -407,3 +402,8 @@ C:\Codes\MinhaAppCleanArchitecture\AppCleanArchitecture.WebUI\obj\Debug\net5.0\R
 C:\Codes\MinhaAppCleanArchitecture\AppCleanArchitecture.WebUI\obj\Debug\net5.0\Razor\Views\Product\Edit.cshtml.g.cs
 C:\Codes\MinhaAppCleanArchitecture\AppCleanArchitecture.WebUI\obj\Debug\net5.0\Razor\Views\Product\Delete.cshtml.g.cs
 C:\Codes\MinhaAppCleanArchitecture\AppCleanArchitecture.WebUI\obj\Debug\net5.0\Razor\Views\Product\Details.cshtml.g.cs
+C:\Codes\MinhaAppCleanArchitecture\AppCleanArchitecture.WebUI\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Codes\MinhaAppCleanArchitecture\AppCleanArchitecture.WebUI\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Codes\MinhaAppCleanArchitecture\AppCleanArchitecture.WebUI\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Codes\MinhaAppCleanArchitecture\AppCleanArchitecture.WebUI\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Codes\MinhaAppCleanArchitecture\AppCleanArchitecture.WebUI\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
