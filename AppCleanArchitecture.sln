@@ -13,10 +13,12 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AppCleanArchitecture.Infra.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AppCleanArchitecture.WebUI", "AppCleanArchitecture.WebUI\AppCleanArchitecture.WebUI.csproj", "{7130206C-09A6-482F-AA4B-98282DFC00D3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppCleanArchitecture.Domain.Tests", "AppCleanArchitecture.Domain.Tests\AppCleanArchitecture.Domain.Tests.csproj", "{A7D76E13-9692-4066-A71C-0774B15E7D01}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AppCleanArchitecture.Domain.Tests", "AppCleanArchitecture.Domain.Tests\AppCleanArchitecture.Domain.Tests.csproj", "{A7D76E13-9692-4066-A71C-0774B15E7D01}"
 	ProjectSection(ProjectDependencies) = postProject
 		{9B3BB6B7-9DE7-43F7-8146-A4C71D1FF773} = {9B3BB6B7-9DE7-43F7-8146-A4C71D1FF773}
 	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppCleanArchitecture.API", "AppCleanArchitecture.API\AppCleanArchitecture.API.csproj", "{ECFC8D61-694A-4D39-9490-21D2F2BE1B29}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -48,6 +50,10 @@ Global
 		{A7D76E13-9692-4066-A71C-0774B15E7D01}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A7D76E13-9692-4066-A71C-0774B15E7D01}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A7D76E13-9692-4066-A71C-0774B15E7D01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECFC8D61-694A-4D39-9490-21D2F2BE1B29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECFC8D61-694A-4D39-9490-21D2F2BE1B29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECFC8D61-694A-4D39-9490-21D2F2BE1B29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECFC8D61-694A-4D39-9490-21D2F2BE1B29}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

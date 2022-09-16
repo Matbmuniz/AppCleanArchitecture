@@ -19,7 +19,7 @@ namespace AppCleanArchitecture.Infra.Data.Identity
             _roleManager = roleManager;
         }
 
-        public void SeedRoles()
+        public void SeedUser()
         {
             if(_userManager.FindByEmailAsync("usuario@localhost").Result == null)
             {
@@ -60,7 +60,7 @@ namespace AppCleanArchitecture.Infra.Data.Identity
             }
         }
 
-        public void SeedUser()
+        public void SeedRoles()
         {
             if (!_roleManager.RoleExistsAsync("User").Result)
             {

@@ -1,5 +1,6 @@
 ﻿using AppCleanArchitecture.Application.DTOs;
 using AppCleanArchitecture.Application.Interfaces;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using System;
 using System.Collections.Generic;
@@ -8,6 +9,7 @@ using System.Threading.Tasks;
 
 namespace AppCleanArchitecture.WebUI.Controllers
 {
+    [Authorize]
     public class CategoriesController : Controller
     {
         private readonly ICategoryService _categoryService;
@@ -74,6 +76,7 @@ namespace AppCleanArchitecture.WebUI.Controllers
             return View(categoryDTO);
         }
 
+        [Authorize(Roles = "Admin")]
         [HttpGet]
         public async Task<IActionResult> Delete(int? id)
         {

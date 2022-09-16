@@ -19,8 +19,15 @@ using AppCleanArchitecture.WebUI;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 2 "C:\Codes\MinhaAppCleanArchitecture\AppCleanArchitecture.WebUI\Views\_ViewImports.cshtml"
+using AppCleanArchitecture.WebUI.ViewModel;
+
+#line default
+#line hidden
+#nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"8f17168d674f2b00df522d2edd1fcb11779f6e7f", @"/Views/Product/Index.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"e74db513636d728a9dafd4602eae621f16f7ed76", @"/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"e1ccc6efb8be01fb0d36e47adf5a63bb3c1f2b7c", @"/Views/_ViewImports.cshtml")]
     public class Views_Product_Index : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<IEnumerable<AppCleanArchitecture.Application.DTOs.ProductDTO>>
     {
         private static readonly global::Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute __tagHelperAttribute_0 = new global::Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute("asp-action", "Create", global::Microsoft.AspNetCore.Razor.TagHelpers.HtmlAttributeValueStyle.DoubleQuotes);
@@ -75,7 +82,7 @@ using AppCleanArchitecture.WebUI;
 #line hidden
 #nullable disable
             WriteLiteral("</h2>\r\n</div>\r\n\r\n<hr />\r\n\r\n<div class=\"row\">\r\n    <div class=\"col-md-12\">\r\n        <div>\r\n            <div class=\"pull-left\">\r\n                ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "8f17168d674f2b00df522d2edd1fcb11779f6e7f7033", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "8f17168d674f2b00df522d2edd1fcb11779f6e7f7246", async() => {
                 WriteLiteral("\r\n                    <span title=\"Register New\" class=\"fas fa-plus\"></span> Register New\r\n                ");
             }
             );
@@ -149,7 +156,7 @@ using AppCleanArchitecture.WebUI;
 #line hidden
 #nullable disable
             WriteLiteral("\r\n                </td>\r\n                <td>\r\n                    ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "8f17168d674f2b00df522d2edd1fcb11779f6e7f11035", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "8f17168d674f2b00df522d2edd1fcb11779f6e7f11248", async() => {
                 WriteLiteral("\r\n                        <span class=\"fas fa-edit\">Edit</span>\r\n                    ");
             }
             );
@@ -182,7 +189,7 @@ using AppCleanArchitecture.WebUI;
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("\r\n                    ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "8f17168d674f2b00df522d2edd1fcb11779f6e7f13469", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "8f17168d674f2b00df522d2edd1fcb11779f6e7f13682", async() => {
                 WriteLiteral("\r\n                        <span class=\"fas fa-edit\">Details</span>\r\n                    ");
             }
             );
@@ -215,7 +222,7 @@ using AppCleanArchitecture.WebUI;
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("\r\n                    ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "8f17168d674f2b00df522d2edd1fcb11779f6e7f15909", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "8f17168d674f2b00df522d2edd1fcb11779f6e7f16122", async() => {
                 WriteLiteral("\r\n                        <span class=\"fas fa-edit\">Delete</span>\r\n                    ");
             }
             );

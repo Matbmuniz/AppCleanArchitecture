@@ -1,3 +1,4 @@
+using AppCleanArchitecture.Domain.Accounts;
 using AppCleanArchitecture.Infra.IoC;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
@@ -29,7 +30,7 @@ namespace AppCleanArchitecture.WebUI
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
-        public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
+        public void Configure(IApplicationBuilder app, IWebHostEnvironment env, ISeedUserRoleInitial seedUserInitial)
         {
             if (env.IsDevelopment())
             {
@@ -46,6 +47,10 @@ namespace AppCleanArchitecture.WebUI
 
             app.UseRouting();
 
+            seedUserInitial.SeedRoles();
+            seedUserInitial.SeedUser();
+
+            app.UseAuthentication();
             app.UseAuthorization();
 
             app.UseEndpoints(endpoints =>
