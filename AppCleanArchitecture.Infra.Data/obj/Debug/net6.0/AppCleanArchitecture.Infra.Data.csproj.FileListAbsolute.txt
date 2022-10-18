@@ -1,0 +1,17 @@
+C:\Codes\MinhaAppCleanArchitecture\AppCleanArchitecture.Infra.Data\bin\Debug\net6.0\AppCleanArchitecture.Infra.Data.deps.json
+C:\Codes\MinhaAppCleanArchitecture\AppCleanArchitecture.Infra.Data\bin\Debug\net6.0\AppCleanArchitecture.Infra.Data.runtimeconfig.json
+C:\Codes\MinhaAppCleanArchitecture\AppCleanArchitecture.Infra.Data\bin\Debug\net6.0\AppCleanArchitecture.Infra.Data.dll
+C:\Codes\MinhaAppCleanArchitecture\AppCleanArchitecture.Infra.Data\bin\Debug\net6.0\AppCleanArchitecture.Infra.Data.pdb
+C:\Codes\MinhaAppCleanArchitecture\AppCleanArchitecture.Infra.Data\bin\Debug\net6.0\AppCleanArchitecture.Domain.dll
+C:\Codes\MinhaAppCleanArchitecture\AppCleanArchitecture.Infra.Data\bin\Debug\net6.0\AppCleanArchitecture.Domain.pdb
+C:\Codes\MinhaAppCleanArchitecture\AppCleanArchitecture.Infra.Data\obj\Debug\net6.0\AppCleanArchitecture.Infra.Data.csproj.AssemblyReference.cache
+C:\Codes\MinhaAppCleanArchitecture\AppCleanArchitecture.Infra.Data\obj\Debug\net6.0\AppCleanArchitecture.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codes\MinhaAppCleanArchitecture\AppCleanArchitecture.Infra.Data\obj\Debug\net6.0\AppCleanArchitecture.Infra.Data.AssemblyInfoInputs.cache
+C:\Codes\MinhaAppCleanArchitecture\AppCleanArchitecture.Infra.Data\obj\Debug\net6.0\AppCleanArchitecture.Infra.Data.AssemblyInfo.cs
+C:\Codes\MinhaAppCleanArchitecture\AppCleanArchitecture.Infra.Data\obj\Debug\net6.0\AppCleanArchitecture.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Codes\MinhaAppCleanArchitecture\AppCleanArchitecture.Infra.Data\obj\Debug\net6.0\AppCleanArchitecture.Infra.Data.csproj.CopyComplete
+C:\Codes\MinhaAppCleanArchitecture\AppCleanArchitecture.Infra.Data\obj\Debug\net6.0\AppCleanArchitecture.Infra.Data.dll
+C:\Codes\MinhaAppCleanArchitecture\AppCleanArchitecture.Infra.Data\obj\Debug\net6.0\refint\AppCleanArchitecture.Infra.Data.dll
+C:\Codes\MinhaAppCleanArchitecture\AppCleanArchitecture.Infra.Data\obj\Debug\net6.0\AppCleanArchitecture.Infra.Data.pdb
+C:\Codes\MinhaAppCleanArchitecture\AppCleanArchitecture.Infra.Data\obj\Debug\net6.0\AppCleanArchitecture.Infra.Data.genruntimeconfig.cache
+C:\Codes\MinhaAppCleanArchitecture\AppCleanArchitecture.Infra.Data\obj\Debug\net6.0\ref\AppCleanArchitecture.Infra.Data.dll

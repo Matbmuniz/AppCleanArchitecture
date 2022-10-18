@@ -1,13 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "q4a3monTScoxwhl+w4GwBbhg/aCvfEyTKVq6CdfcsJfmbN2wP8wKNX7HoG0WnTxcOxFrYNMfESv+JAwx6BQo9Q==",
+  "dgSpecHash": "e4o6e+On37HjgVSWkZLlfV7pqVE8fQ/f+1P/XIjBEpF+DGmanv8aD0N7BTl9oP8Dyi7QZzZaJI4JrLsYyV/rsg==",
   "success": true,
   "projectFilePath": "C:\\Codes\\MinhaAppCleanArchitecture\\AppCleanArchitecture.Application\\AppCleanArchitecture.Application.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Barreto\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
-    "C:\\Users\\Barreto\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
-    "C:\\Users\\Barreto\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
-    "C:\\Users\\Barreto\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+    "C:\\Users\\Barreto\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
+    "C:\\Users\\Barreto\\.nuget\\packages\\mediatr\\11.0.0\\mediatr.11.0.0.nupkg.sha512",
+    "C:\\Users\\Barreto\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\Barreto\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
   ],
   "logs": []
 }

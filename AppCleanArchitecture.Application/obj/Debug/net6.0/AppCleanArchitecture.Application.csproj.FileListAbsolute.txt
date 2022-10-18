@@ -1,0 +1,15 @@
+C:\Codes\MinhaAppCleanArchitecture\AppCleanArchitecture.Application\bin\Debug\net6.0\AppCleanArchitecture.Application.deps.json
+C:\Codes\MinhaAppCleanArchitecture\AppCleanArchitecture.Application\bin\Debug\net6.0\AppCleanArchitecture.Application.dll
+C:\Codes\MinhaAppCleanArchitecture\AppCleanArchitecture.Application\bin\Debug\net6.0\AppCleanArchitecture.Application.pdb
+C:\Codes\MinhaAppCleanArchitecture\AppCleanArchitecture.Application\bin\Debug\net6.0\AppCleanArchitecture.Domain.dll
+C:\Codes\MinhaAppCleanArchitecture\AppCleanArchitecture.Application\bin\Debug\net6.0\AppCleanArchitecture.Domain.pdb
+C:\Codes\MinhaAppCleanArchitecture\AppCleanArchitecture.Application\obj\Debug\net6.0\AppCleanArchitecture.Application.csproj.AssemblyReference.cache
+C:\Codes\MinhaAppCleanArchitecture\AppCleanArchitecture.Application\obj\Debug\net6.0\AppCleanArchitecture.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codes\MinhaAppCleanArchitecture\AppCleanArchitecture.Application\obj\Debug\net6.0\AppCleanArchitecture.Application.AssemblyInfoInputs.cache
+C:\Codes\MinhaAppCleanArchitecture\AppCleanArchitecture.Application\obj\Debug\net6.0\AppCleanArchitecture.Application.AssemblyInfo.cs
+C:\Codes\MinhaAppCleanArchitecture\AppCleanArchitecture.Application\obj\Debug\net6.0\AppCleanArchitecture.Application.csproj.CoreCompileInputs.cache
+C:\Codes\MinhaAppCleanArchitecture\AppCleanArchitecture.Application\obj\Debug\net6.0\AppCleanArchitecture.Application.csproj.CopyComplete
+C:\Codes\MinhaAppCleanArchitecture\AppCleanArchitecture.Application\obj\Debug\net6.0\AppCleanArchitecture.Application.dll
+C:\Codes\MinhaAppCleanArchitecture\AppCleanArchitecture.Application\obj\Debug\net6.0\refint\AppCleanArchitecture.Application.dll
+C:\Codes\MinhaAppCleanArchitecture\AppCleanArchitecture.Application\obj\Debug\net6.0\AppCleanArchitecture.Application.pdb
+C:\Codes\MinhaAppCleanArchitecture\AppCleanArchitecture.Application\obj\Debug\net6.0\ref\AppCleanArchitecture.Application.dll

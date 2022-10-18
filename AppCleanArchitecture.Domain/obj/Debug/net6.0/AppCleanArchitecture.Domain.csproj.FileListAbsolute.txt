@@ -1,0 +1,12 @@
+C:\Codes\MinhaAppCleanArchitecture\AppCleanArchitecture.Domain\bin\Debug\net6.0\AppCleanArchitecture.Domain.deps.json
+C:\Codes\MinhaAppCleanArchitecture\AppCleanArchitecture.Domain\bin\Debug\net6.0\AppCleanArchitecture.Domain.dll
+C:\Codes\MinhaAppCleanArchitecture\AppCleanArchitecture.Domain\bin\Debug\net6.0\AppCleanArchitecture.Domain.pdb
+C:\Codes\MinhaAppCleanArchitecture\AppCleanArchitecture.Domain\obj\Debug\net6.0\AppCleanArchitecture.Domain.csproj.AssemblyReference.cache
+C:\Codes\MinhaAppCleanArchitecture\AppCleanArchitecture.Domain\obj\Debug\net6.0\AppCleanArchitecture.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codes\MinhaAppCleanArchitecture\AppCleanArchitecture.Domain\obj\Debug\net6.0\AppCleanArchitecture.Domain.AssemblyInfoInputs.cache
+C:\Codes\MinhaAppCleanArchitecture\AppCleanArchitecture.Domain\obj\Debug\net6.0\AppCleanArchitecture.Domain.AssemblyInfo.cs
+C:\Codes\MinhaAppCleanArchitecture\AppCleanArchitecture.Domain\obj\Debug\net6.0\AppCleanArchitecture.Domain.csproj.CoreCompileInputs.cache
+C:\Codes\MinhaAppCleanArchitecture\AppCleanArchitecture.Domain\obj\Debug\net6.0\AppCleanArchitecture.Domain.dll
+C:\Codes\MinhaAppCleanArchitecture\AppCleanArchitecture.Domain\obj\Debug\net6.0\refint\AppCleanArchitecture.Domain.dll
+C:\Codes\MinhaAppCleanArchitecture\AppCleanArchitecture.Domain\obj\Debug\net6.0\AppCleanArchitecture.Domain.pdb
+C:\Codes\MinhaAppCleanArchitecture\AppCleanArchitecture.Domain\obj\Debug\net6.0\ref\AppCleanArchitecture.Domain.dll
