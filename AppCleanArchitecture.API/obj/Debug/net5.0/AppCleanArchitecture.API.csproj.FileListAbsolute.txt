@@ -50,7 +50,6 @@ C:\Codes\MinhaAppCleanArchitecture\AppCleanArchitecture.API\bin\Debug\net5.0\Mic
 C:\Codes\MinhaAppCleanArchitecture\AppCleanArchitecture.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
 C:\Codes\MinhaAppCleanArchitecture\AppCleanArchitecture.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 C:\Codes\MinhaAppCleanArchitecture\AppCleanArchitecture.API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
-C:\Codes\MinhaAppCleanArchitecture\AppCleanArchitecture.API\bin\Debug\net5.0\Newtonsoft.Json.dll
 C:\Codes\MinhaAppCleanArchitecture\AppCleanArchitecture.API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
 C:\Codes\MinhaAppCleanArchitecture\AppCleanArchitecture.API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
 C:\Codes\MinhaAppCleanArchitecture\AppCleanArchitecture.API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
@@ -76,3 +75,4 @@ C:\Codes\MinhaAppCleanArchitecture\AppCleanArchitecture.API\bin\Debug\net5.0\App
 C:\Codes\MinhaAppCleanArchitecture\AppCleanArchitecture.API\bin\Debug\net5.0\AppCleanArchitecture.Application.pdb
 C:\Codes\MinhaAppCleanArchitecture\AppCleanArchitecture.API\bin\Debug\net5.0\AppCleanArchitecture.Domain.pdb
 C:\Codes\MinhaAppCleanArchitecture\AppCleanArchitecture.API\bin\Debug\net5.0\AppCleanArchitecture.Infra.Data.pdb
+C:\Codes\MinhaAppCleanArchitecture\AppCleanArchitecture.API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll

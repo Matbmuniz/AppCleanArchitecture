@@ -1,5 +1,6 @@
 ﻿using AppCleanArchitecture.API.Models;
 using AppCleanArchitecture.Domain.Accounts;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Configuration;
@@ -28,7 +29,26 @@ namespace AppCleanArchitecture.API.Controllers
             _configuration = configuration;
         }
 
+        [HttpPost("CreateUser")]
+        [ApiExplorerSettings(IgnoreApi = true)]
+        [Authorize]
+        public async Task<ActionResult> CreateUser([FromBody] LoginModel userInfo)
+        {
+            var result = await _authenticate.RegisterUser(userInfo.Email, userInfo.Password);
+
+            if (result)
+            {
+               return Ok($" User {userInfo.Email} was create succesfully");
+            }
+            else
+            {
+                ModelState.AddModelError(string.Empty, "Invalid Login Attempt.");
+                return BadRequest(ModelState);
+            }
+        }
+
         [HttpPost("LoginUser")]
+        [AllowAnonymous]
         public async Task<ActionResult<UserToken>> Login([FromBody] LoginModel userInfo)
         {
             var result = await _authenticate.Authenticate(userInfo.Email, userInfo.Password);
@@ -43,8 +63,6 @@ namespace AppCleanArchitecture.API.Controllers
                 ModelState.AddModelError(string.Empty, "Invalid Login Attempt.");
                 return BadRequest(ModelState);
             }
-
-
         }
 
         private UserToken GenerateToken(LoginModel userInfo)
